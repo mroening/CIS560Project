@@ -1,5 +1,12 @@
 # CIS560Project
 
+## Couple Quick Notes:
+
+- make sure you have .net6+ installed and visual studio 2022 (otherwise visual studio hates you). You also can use vs code or vim (mega chad) if you want. Don't use atom - just why???
+- visual studio may whine when trying to run vue, so we might have to also install npm, node, and vue on your machine too. If this problem occurs, it might be easier to build the asp.net server as an API and I can run vue apart from the server.
+
+- have fun!
+
 # Useful Git commands
 
 ## clone the git repo to the local machine
