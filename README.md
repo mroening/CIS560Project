@@ -25,7 +25,10 @@ git pull
 ```
 git checkout -b <the branch name like my_branch>
 ```
-### the -b command is what creates a new branch, if the branch already exists (like main) then just do git checkout <branch_name>
+### the -b command is what creates a new branch, if the branch already exists (like main) then just do 
+```
+git checkout <branch_name>
+```
 
 ## how to revert back to the latest changes on the server (helpful if you get stuck in a merge conflict and just want whatever is on the server)
 ```
