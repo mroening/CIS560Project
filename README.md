@@ -7,6 +7,10 @@
 ```
 git clone "<the clone link>"
 ```
+so for this project do:
+```
+git clone "https://github.com/mroening/CIS560Project.git"
+```
 
 ## pull the latest changes to an existing repo on the local machine
 ```
@@ -16,9 +20,10 @@ git pull
 ## how to push changes to the repo:
 ```
 git add .
-git commit -a -m "<the title of the commit here>"
+git commit -a -m "<the description of the commit here>"
 git push
 ```
+be sure to keep the title description short, you are restricted to ~560 characters
 
 ## how to create a branch
 ### True sigma programmers don't do branches but if you need it:
