@@ -15,9 +15,9 @@ git pull
 
 ## how to push changes to the repo:
 ```
-- git add .
-- git commit -a -m "<the title of the commit here>"
-- git push
+git add .
+git commit -a -m "<the title of the commit here>"
+git push
 ```
 
 ## how to create a branch
