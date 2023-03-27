@@ -1,4 +1,7 @@
 <template>
+
+    <div class="h-2 text-lg w-full bg-red-500">test</div>
+
     <div class="post">
         <div v-if="loading" class="loading">
             Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationvue">https://aka.ms/jspsintegrationvue</a> for more details.
@@ -62,3 +65,4 @@
         },
     });
 </script>
+
